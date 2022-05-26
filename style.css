@@ -223,6 +223,7 @@ hr {
   background: url("images/feature/backg.jpg") center no-repeat;
   background-size: cover;
   padding-bottom: 0;
+  margin-bottom: 40px;
 }
 
 .section__header {
@@ -393,4 +394,12 @@ hr {
   bottom: -90px;
   right: -35px;
   z-index: 1;
+}
+/* wedo*/
+.wedo {
+  display: flex;
+}
+
+.wedo__item {
+  width: 50%;
 }
