@@ -219,6 +219,12 @@ hr {
   padding: 80px 0;
 }
 
+.section--devices {
+  background: url("images/feature/backg.jpg") center no-repeat;
+  background-size: cover;
+  padding-bottom: 0;
+}
+
 .section__header {
   width: 100%;
   max-width: 950px;
@@ -369,4 +375,15 @@ hr {
   font-size: 15px;
   color: #999;
   font-family: "Roboto", sans-serif;
+}
+
+/* Devices */
+.devices {
+  width: 100%;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.devices__item {
+  display: block;
 }
